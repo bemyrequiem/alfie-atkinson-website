@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alfie-atkinson-website/static/css/main.f855e6bc.css",
-    "main.js": "/alfie-atkinson-website/static/js/main.98948366.js",
+    "main.js": "/alfie-atkinson-website/static/js/main.abe53b7e.js",
     "static/js/453.19765234.chunk.js": "/alfie-atkinson-website/static/js/453.19765234.chunk.js",
     "index.html": "/alfie-atkinson-website/index.html",
     "main.f855e6bc.css.map": "/alfie-atkinson-website/static/css/main.f855e6bc.css.map",
-    "main.98948366.js.map": "/alfie-atkinson-website/static/js/main.98948366.js.map",
+    "main.abe53b7e.js.map": "/alfie-atkinson-website/static/js/main.abe53b7e.js.map",
     "453.19765234.chunk.js.map": "/alfie-atkinson-website/static/js/453.19765234.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.98948366.js"
+    "static/js/main.abe53b7e.js"
   ]
 }
