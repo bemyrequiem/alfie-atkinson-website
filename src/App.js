@@ -4,6 +4,7 @@ import About from "./routes/About";
 import Careers from "./routes/Careers";
 import Home from "./routes/Home";
 import Navbar from './Navbar';
+
 function App() {
   return (
     <>
@@ -16,4 +17,5 @@ function App() {
     </>
   );
 }
+
 export default App;
